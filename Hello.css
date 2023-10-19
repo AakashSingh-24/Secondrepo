@@ -1,3 +1,11 @@
 .h11{
     background-color: brown;
 }
+
+body{
+    background-color: aqua;
+}
+
+h1{
+border: 5px soid red 30px;
+}
